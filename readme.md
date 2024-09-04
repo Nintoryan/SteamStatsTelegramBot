@@ -1,8 +1,8 @@
 # Telegram бот для статистики Steam аккаунта
 
 ### Установка
-1. Получите [Steam API Key](https://steamcommunity.com/dev)
-2. Создайте бота через [BotFather](https://t.me/BotFather) и получите `TELEGRAM_BOT_TOKEN`
+1. Получите [Steam API Key](https://steamcommunity.com/dev) и поставьте в `STEAM_API_KEY`
+2. Создайте бота через [BotFather](https://t.me/BotFather) и поставьте в `TELEGRAM_BOT_TOKEN`
 
 ### Запуск
 ```bash
